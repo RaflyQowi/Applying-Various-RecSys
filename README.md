@@ -23,7 +23,7 @@ Explore content-based filtering techniques in this folder, where recommendations
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/Recommender-System-Techniques.git
+   git clone https://github.com/RaflyQowi/Applying-Various-RecSys.git
    ```
 
 2. Navigate to the desired folder of interest and explore the Python scripts to understand the implementation details of each recommender system technique.
